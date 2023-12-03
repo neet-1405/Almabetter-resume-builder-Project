@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+DEployment link:https://neet-1405.github.io/Almabetter-resume-builder-Project/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
